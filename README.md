@@ -23,6 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+https://github.com/TaoLyn838/web102_prework/assets/58400041/f84dc3c4-ebb6-49b7-a892-66ac25e34c69
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
